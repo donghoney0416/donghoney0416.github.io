@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-I am a Ph.D. candidate student of School of Electrical Engineering, KAIST. I am working in a Smart Sound System Lab [soundlab](http://www.sound.kaist.ac.kr), and my research field is acoustics, audio signal processing, DNN based speech signal processing, microphone array processing.
+I am a Ph.D. candidate student of School of Electrical Engineering, KAIST. I am working in a [Smart Sound System Lab](http://www.sound.kaist.ac.kr), and my research field is acoustics, audio signal processing, DNN based speech signal processing, microphone array processing.
 
 mobile : (+82) 010-9078-3964 <br>
 e-mail : dongheon0115@kaist.ac.kr<br>
