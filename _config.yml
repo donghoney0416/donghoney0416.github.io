@@ -29,11 +29,11 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: donghoney0416
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Dongheon Lee
   links:
     - https://twitter.com/vszhub
     - https://github.com/vszhub
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Dongheon Lee
+  url: https://github.com/donghoney0416/
+  email: donghen0115@kaist.ac.kr
