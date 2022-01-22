@@ -1,6 +1,6 @@
 ---
 layout: post
-title: curriculum vitae
+title: C.V.
 author: Dongheon Lee
 tags: About
 date: 2022-01-22 22:01 +0800
