@@ -8,7 +8,7 @@ I am a Ph.D. candidate student of School of Electrical Engineering, KAIST. I am 
 mobile : (+82) 010-9078-3964 <br>
 e-mail : dongheon0115@kaist.ac.kr
 
-<font size="6"><b>Education</b><br>
+<font size="6"><b>Education</b><\font><br>
 Changwon Science Highschool<br>
  - 2014.03-2016.02 (early graduation)<br>
 
