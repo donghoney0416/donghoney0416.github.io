@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Curriculum Viate
+title: Curriculum Vitae
 tags: about
 math: true
 date: 2022-01-22 15:32 +0800
