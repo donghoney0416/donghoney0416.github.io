@@ -34,7 +34,7 @@ Smart Sound System Lab (KAIST smart sound system lab)<br>
  - Research on microphone array processing, DNN based speech signal processing, audio signal processing, acoustics<br>
 
 Center for Applied Research in AI (Defense Acquisition Program Administration, Republic of Korea)<br>
- - 2020.03-now Engineer<br>
+ - 2020.03-now student researcher<br>
  - confidential<br>
 
 <br><font size="4"><b>Publish</b><br>
