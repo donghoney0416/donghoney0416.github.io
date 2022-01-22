@@ -1,9 +1,8 @@
 ---
 layout: post
-title: C.V.
+title: curriculum vitae
 author: Dongheon Lee
-tags:
-- About
+tags: About
 date: 2022-01-22 22:01 +0800
 ---
 I am a Ph.D. candidate student of School of Electrical Engineering, KAIST. I am working in a Smart Sound System Lab [soundlab](http://www.sound.kaist.ac.kr), and my research field is acoustics, audio signal processing, DNN based speech signal processing, microphone array processing.
