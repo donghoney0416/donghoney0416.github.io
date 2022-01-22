@@ -24,13 +24,13 @@ e-mail : dongheon0115@kaist.ac.kr
  - 2018.12-2019.06 Undergraduate research intern<br>
 
 <b>SK Hynix</b><br>
- - 2019.06-2019.08 research intern in department of DRAM<br>
+ - 2019.06-2019.08 Research intern in department of DRAM<br>
 
 <b>Smart Sound System Lab (KAIST smart sound system lab)</b><br>
  - 2020.03-now Ph.D. Candidates<br>
 
 <b>Center for Applied Research in AI (Defense Acquisition Program Administration, Republic of Korea)</b><br>
- - 2020.03-now student researcher<br>
+ - 2020.03-now Student researcher<br>
 
 <br><font size="5"><b>Publish</b><br>
 <font size="4">
@@ -44,7 +44,7 @@ e-mail : dongheon0115@kaist.ac.kr
  - 1st prize at internship project (SK Hynix, 2019. Summer)<br>
  - Excellence Award (Acoustical Society of Korea, 2021. Spring)<br>
 
-<br><b>Scholarships</b><br>
+<b>Scholarships</b><br>
  - KAIST scholarship to undergraduate students (KAIST, 2016.03-2020.02)<br>
  - KAIST scholarship to graduate students (KAIST, 2020.03-now)<br>
 
