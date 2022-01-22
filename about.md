@@ -27,7 +27,7 @@ e-mail : dongheon0115@kaist.ac.kr<br>
  - 2019.06-2019.08 Research intern in department of DRAM<br>
 
 <b>Smart Sound System Lab (KAIST smart sound system lab)</b><br>
- - 2020.03-now Ph.D. Candidates<br>
+ - 2020.03-now Ph.D. Candidate<br>
 
 <b>Center for Applied Research in AI (Defense Acquisition Program Administration, Republic of Korea)</b><br>
  - 2020.03-now Student researcher<br>
