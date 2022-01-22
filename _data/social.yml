@@ -3,7 +3,7 @@
   icon: fas fa-envelope
 - title : Linkedin
   url : https://www.linkedin.com/in/dongheon-lee-8b1770209/
-  icon : fas fa-linkedin
+  icon : fab fa-linkedin
 - title: GitHub
   url: https://github.com/donghoney0416/IC_Conv_TasNet.github.io
   icon: fab fa-github
