@@ -25,7 +25,7 @@ Korea Advanced Institute of Science and Technology (KAIST)<br>
  - Research on decoding linear block code using machine learning. Completed KAIST URP (Undergraduated Research Participation) Program<br>
 
 SK Hynix<br>
- - 2019.06-2019.05 <br>
+ - 2019.06-2019.08 <br>
  - Participated D.V.A. team in department of DRAM<br>
  - Research on random vector generation. 1st prize at internship project in department of DRAM.<br>
 
