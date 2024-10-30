@@ -11,12 +11,6 @@ title: "Introduction"
 
        <p>Ph.D. student in Electrical Engineering at Korea Advanced Institute of Science and Technology (KAIST), specializing in Smart Sound Systems under the supervision of Prof. Jung-Woo Choi. My research is focused on <strong>deep learning-based single/multi-channel speech enhancement and source separation</strong>. My interests also include microphone array signal processing, AR/VR, and automatic speech recognition (ASR).</p>
 
-       <h3>Education</h3>
-       <ul>
-           <li><strong>Ph.D. in Electrical Engineering</strong>, KAIST (2020 - Present)</li>
-           <li><strong>B.S. in Electrical Engineering</strong>, KAIST (2016 - 2020)</li>
-       </ul>
-
        <h3>Contact</h3>
        <ul>
            <li><strong>Email</strong>: <a href="mailto:donghen0115@kaist.ac.kr">donghen0115@kaist.ac.kr</a></li>
@@ -46,6 +40,12 @@ title: "Introduction"
     <li>Microphone array signal processing</li>
     <li>Augmented and virtual reality (AR/VR)</li>
     <li>Automatic speech recognition (ASR)</li>
+</ul>
+
+<h3>Education</h3>
+<ul>
+   <li><strong>Ph.D. in Electrical Engineering</strong>, KAIST (2020 - Present)</li>
+   <li><strong>B.S. in Electrical Engineering</strong>, KAIST (2016 - 2020)</li>
 </ul>
 
 <h3>Professional Experience</h3>
