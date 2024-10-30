@@ -18,17 +18,17 @@ title: "Introduction"
 
        <h3>Links</h3>
        <div align="left">
-           <a href="https://scholar.google.com/citations?user=G4WfN5EAAAAJ&hl=ko&oi=ao" target="_blank" style="display: inline-block; margin: 10px;">
-               <img src="fig/Google.png" alt="Google Scholar" width="50" height="50">
+           <a href="https://scholar.google.com/citations?user=G4WfN5EAAAAJ&hl=ko&oi=ao" target="_blank" style="display: inline-block; margin: 5px;">
+               <img src="fig/Google.png" alt="Google Scholar" width="30" height="30">
            </a>
-           <a href="https://www.linkedin.com/in/dong-heon-lee-7563061a5/" target="_blank" style="display: inline-block; margin: 10px;">
-               <img src="fig/Linkedin.png" alt="LinkedIn" width="50" height="50">
+           <a href="https://www.linkedin.com/in/dong-heon-lee-7563061a5/" target="_blank" style="display: inline-block; margin: 5px;">
+               <img src="fig/Linkedin.png" alt="LinkedIn" width="30" height="30">
            </a>
-           <a href="https://drive.google.com/file/d/1qCCSbyIyNOBe4z7dJp9DMqos0tDtVL0-/view" target="_blank" style="display: inline-block; margin: 10px;">
-               <img src="fig/CV.png" alt="CV" width="50" height="50">
+           <a href="https://drive.google.com/file/d/1qCCSbyIyNOBe4z7dJp9DMqos0tDtVL0-/view" target="_blank" style="display: inline-block; margin: 5px;">
+               <img src="fig/CV.png" alt="CV" width="30" height="30">
            </a>
-           <a href="https://github.com/donghoney0416" target="_blank" style="display: inline-block; margin: 10px;">
-               <img src="fig/Github.png" alt="GitHub" width="50" height="50">
+           <a href="https://github.com/donghoney0416" target="_blank" style="display: inline-block; margin: 5px;">
+               <img src="fig/Github.png" alt="GitHub" width="30" height="30">
            </a>
        </div>
    </div>
