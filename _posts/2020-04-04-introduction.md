@@ -3,7 +3,7 @@ layout: post
 title: "Introduction"
 ---
 
-![Dongheon Lee's Photo](fig/avatar.jpeg){:width="300" height="400"}
+![Dongheon Lee's Photo](fig/avatar.jpeg){:width="200" height="200"}
 
 # Dongheon Lee
 
@@ -17,10 +17,23 @@ Ph.D. student in Electrical Engineering at Korea Advanced Institute of Science a
 - **Email**: [donghen0115@kaist.ac.kr](mailto:donghen0115@kaist.ac.kr)
 
 ### Links
-[![Google Scholar](fig/Google.png)](https://scholar.google.com/citations?user=YOUR_ID){:target="_blank"}
-[![LinkedIn](fig/Linkedin.png)](https://www.linkedin.com/in/YOUR_LINKEDIN_ID){:target="_blank"}
-[![CV](fig/CV.png)](path/to/your_cv.pdf){:target="_blank"}
-[![GitHub](fig/Github.png)](https://github.com/donghoney0416){:target="_blank"}
+<p align="center">
+    <a href="https://scholar.google.com/citations?user=YOUR_ID" target="_blank">
+        <img src="fig/Google.png" alt="Google Scholar" width="100" height="100">
+    </a>
+    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID" target="_blank">
+        <img src="fig/Linkedin.png" alt="LinkedIn" width="100" height="100">
+    </a>
+    <a href="path/to/your_cv.pdf" target="_blank">
+        <img src="fig/CV.png" alt="CV" width="100" height="100">
+    </a>
+    <a href="mailto:donghen0115@kaist.ac.kr" target="_blank">
+        <img src="fig/Email.png" alt="Email" width="100" height="100">
+    </a>
+    <a href="https://github.com/donghoney0416" target="_blank">
+        <img src="fig/Github.png" alt="GitHub" width="100" height="100">
+    </a>
+</p>
 
 ### Research Interests
 - Deep learning for speech enhancement and source separation
