@@ -1,5 +1,5 @@
 # Setup
-title: Dark Poole
+title: Dongheon Lee
 url: https://getpoole.com
 paginate: 1
 baseurl: ""
@@ -41,8 +41,8 @@ version: 3.0.0
 
 # Navbar page list
 nav:
-  - title: Blog
-    url: /archive
-
   - title: About
     url: /about
+
+  - title: Publications
+    url: /archive
