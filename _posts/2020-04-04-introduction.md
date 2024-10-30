@@ -17,20 +17,20 @@ Ph.D. student in Electrical Engineering at Korea Advanced Institute of Science a
 - **Email**: [donghen0115@kaist.ac.kr](mailto:donghen0115@kaist.ac.kr)
 
 ### Links
-<p align="center">
-    <a href="[https://scholar.google.com/citations?user=YOUR_ID](https://scholar.google.com/citations?user=G4WfN5EAAAAJ&hl=ko&oi=ao)" target="_blank">
+<div align="center">
+    <a href="https://scholar.google.com/citations?user=G4WfN5EAAAAJ&hl=ko&oi=ao" target="_blank" style="display: inline-block; margin: 10px;">
         <img src="fig/Google.png" alt="Google Scholar" width="50" height="50">
     </a>
-    <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN_ID](https://www.linkedin.com/in/dong-heon-lee-7563061a5/)" target="_blank">
+    <a href="https://www.linkedin.com/in/dong-heon-lee-7563061a5/" target="_blank" style="display: inline-block; margin: 10px;">
         <img src="fig/Linkedin.png" alt="LinkedIn" width="50" height="50">
     </a>
-    <a href="[fhttps://drive.google.com/file/d/1qCCSbyIyNOBe4z7dJp9DMqos0tDtVL0-/view?usp=drive_link](https://drive.google.com/file/d/1qCCSbyIyNOBe4z7dJp9DMqos0tDtVL0-/view?usp=drive_link)" target="_blank">
+    <a href="fhttps://drive.google.com/file/d/1qCCSbyIyNOBe4z7dJp9DMqos0tDtVL0-/view?usp=drive_link" target="_blank" style="display: inline-block; margin: 10px;">
         <img src="fig/CV.png" alt="CV" width="50" height="50">
     </a>
-    <a href="[https://github.com/donghoney0416](https://github.com/donghoney0416)" target="_blank">
+    <a href="https://github.com/donghoney0416" target="_blank" style="display: inline-block; margin: 10px;">
         <img src="fig/Github.png" alt="GitHub" width="50" height="50">
     </a>
-</p>
+</div>
 
 ### Research Interests
 - Deep learning for speech enhancement and source separation
