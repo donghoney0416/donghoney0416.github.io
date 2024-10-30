@@ -1,42 +1,36 @@
 ---
 layout: post
-title: Introduction
+title: "Introduction"
 ---
 
-*The Strange Case of Dr. Jekyll and Mr. Hyde* tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel's supporting cast is a man by the name of Mr. Poole, Dr. Jekyll's loyal butler.
+![Dongheon Lee's Photo](fig/avatar.jpg){:width="300" height="400"}
 
------
+# Dongheon Lee
 
-Poole is the butler for [Jekyll](http://jekyllrb.com), the static site generator. It's designed and developed by [@mdo](https://twitter.com/mdo) to provide a clear and concise foundational setup for any Jekyll site. It does so by furnishing a full vanilla Jekyll install with example layouts, pages, posts, and styles.
+Ph.D. student in Electrical Engineering at Korea Advanced Institute of Science and Technology (KAIST), specializing in Smart Sound Systems under the supervision of Prof. Jung-Woo Choi. My research is focused on **deep learning-based single/multi-channel speech enhancement and source separation**. My interests also include microphone array signal processing, AR/VR, and automatic speech recognition (ASR).
 
-This demo site was last updated {{ site.time | date: "%B %d, %Y" }}.
+### Education
+- **Ph.D. in Electrical Engineering**, KAIST (2020 - Present)
+- **B.S. in Electrical Engineering**, KAIST (2016 - 2020)
 
-There are currently two themes built on Poole:
+### Contact
+- **Email**: [donghen0115@kaist.ac.kr](mailto:donghen0115@kaist.ac.kr)
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+### Links
+[![Google Scholar](fig/Google.png)](https://scholar.google.com/citations?user=YOUR_ID){:target="_blank"}
+[![LinkedIn](fig/Linkedin.png)](https://www.linkedin.com/in/YOUR_LINKEDIN_ID){:target="_blank"}
+[![CV](fig/CV.png)](path/to/your_cv.pdf){:target="_blank"}
+[![GitHub](fig/Github.png)](https://github.com/donghoney0416){:target="_blank"}
 
-Learn more and contribute on [GitHub]({{ site.github.repo }}).
+### Research Interests
+- Deep learning for speech enhancement and source separation
+- Microphone array signal processing
+- Augmented and virtual reality (AR/VR)
+- Automatic speech recognition (ASR)
 
-## What's included
+### Professional Experience
+- **Research Intern**, SK Hynix (Jun 2019 - Aug 2019)
 
-Poole is a streamlined Jekyll site designed and built as a foundation for building more meaningful themes. Poole, and every theme built on it like this one, includes the following:
-
-* Complete Jekyll setup included (layouts, config, [404]({{ '404.html' | relative_url }}), [RSS feed]({{ 'atom.xml' | relative_url }}), posts, [archive page]({{ 'archive' | relative_url }}), and [example page]({{ 'about' | relative_url }}))
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting, courtesy Jekyll's built-in support for Rouge
-
-Additional features are available in individual themes.
-
-## Browser support
-
-Poole and its themes are by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), Firefox, and Edge.
-
-## Download
-
-These themes are developed on and hosted with GitHub. Head to the [GitHub repository]({{ site.github.repo }}) for downloads, bug reports, and features requests.
-
-Thanks!
+### Selected Publications
+- D. Lee, B. Jo, and JW. Choi, “Direction-of-arrival estimation with blind surface impedance compensation for spherical microphone array,” *JASA Express Lett.*, 2021.
+- D. Lee, S. Kim, and JW. Choi, “Inter-channel Conv-Tasnet for multichannel speech enhancement,” *arXiv preprint*, 2021.
