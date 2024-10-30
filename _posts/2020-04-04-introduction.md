@@ -3,7 +3,7 @@ layout: post
 title: "Introduction"
 ---
 
-![Dongheon Lee's Photo](fig/avatar.jpg){:width="300" height="400"}
+![Dongheon Lee's Photo](fig/avatar.jpeg){:width="300" height="400"}
 
 # Dongheon Lee
 
