@@ -39,7 +39,7 @@ title: "Introduction"
     <li>Deep learning for speech enhancement and source separation</li>
     <li>Microphone array signal processing</li>
     <li>Augmented and virtual reality (AR/VR)</li>
-    <li>Automatic speech recognition (ASR)</li>
+    <li>Auditory scene analysis</li>
 </ul>
 
 <h3>Education</h3>
