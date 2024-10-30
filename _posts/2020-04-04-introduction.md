@@ -27,9 +27,6 @@ Ph.D. student in Electrical Engineering at Korea Advanced Institute of Science a
     <a href="[fhttps://drive.google.com/file/d/1qCCSbyIyNOBe4z7dJp9DMqos0tDtVL0-/view?usp=drive_link](https://drive.google.com/file/d/1qCCSbyIyNOBe4z7dJp9DMqos0tDtVL0-/view?usp=drive_link)" target="_blank">
         <img src="fig/CV.png" alt="CV" width="50" height="50">
     </a>
-    <a href="mailto:donghen0115@kaist.ac.kr" target="_blank">
-        <img src="fig/Email.png" alt="Email" width="50" height="50">
-    </a>
     <a href="[https://github.com/donghoney0416](https://github.com/donghoney0416)" target="_blank">
         <img src="fig/Github.png" alt="GitHub" width="50" height="50">
     </a>
