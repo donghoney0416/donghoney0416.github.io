@@ -4,34 +4,34 @@ title: "Introduction"
 ---
 
 <div style="display: flex; align-items: center;">
-    <img src="fig/avatar2.jpg" alt="Dongheon Lee's Photo" width="150" height="200" style="float: left; margin-right: 20px;">
+    <img src="fig/avatar2.jpg" alt="Dongheon Lee's Photo" width="200" height="267" style="float: left; margin-right: 10px;">
 
    <div>
        <h1>Dongheon Lee</h1>
 
-       <p>Ph.D. student in Electrical Engineering at Korea Advanced Institute of Science and Technology (KAIST), specializing in Smart Sound Systems under the supervision of Prof. Jung-Woo Choi. My research is focused on <strong>deep learning-based single/multi-channel speech enhancement and source separation</strong>. My interests also include microphone array signal processing, AR/VR, and automatic speech recognition (ASR).</p>
-
-       <h3>Contact</h3>
-       <ul>
-           <li><strong>Email</strong>: <a href="mailto:donghen0115@kaist.ac.kr">donghen0115@kaist.ac.kr</a></li>
-       </ul>
-
-       <h3>Links</h3>
-       <div align="left">
-           <a href="https://scholar.google.com/citations?user=G4WfN5EAAAAJ&hl=ko&oi=ao" target="_blank" style="display: inline-block; margin: 5px;">
-               <img src="fig/Google.png" alt="Google Scholar" width="30" height="30">
-           </a>
-           <a href="https://www.linkedin.com/in/dong-heon-lee-7563061a5/" target="_blank" style="display: inline-block; margin: 5px;">
-               <img src="fig/Linkedin.png" alt="LinkedIn" width="30" height="30">
-           </a>
-           <a href="https://drive.google.com/file/d/1qCCSbyIyNOBe4z7dJp9DMqos0tDtVL0-/view" target="_blank" style="display: inline-block; margin: 5px;">
-               <img src="fig/CV.png" alt="CV" width="30" height="30">
-           </a>
-           <a href="https://github.com/donghoney0416" target="_blank" style="display: inline-block; margin: 5px;">
-               <img src="fig/Github.png" alt="GitHub" width="30" height="30">
-           </a>
-       </div>
+       <p>Ph.D. student in Electrical Engineering at Korea Advanced Institute of Science and Technology (KAIST), in Smart Sound Systems under the supervision of Prof. Jung-Woo Choi. My research is focused on <strong>deep learning-based single/multi-channel speech enhancement and source separation</strong>. My interests also include microphone array signal processing, AR/VR, and automatic speech recognition (ASR).</p>
    </div>
+</div>
+
+<h3>Contact</h3>
+<ul>
+   <li><strong>Email</strong>: <a href="mailto:donghen0115@kaist.ac.kr">donghen0115@kaist.ac.kr</a></li>
+</ul>
+
+<h3>Links</h3>
+<div align="left">
+   <a href="https://scholar.google.com/citations?user=G4WfN5EAAAAJ&hl=ko&oi=ao" target="_blank" style="display: inline-block; margin: 5px;">
+       <img src="fig/Google.png" alt="Google Scholar" width="30" height="30">
+   </a>
+   <a href="https://www.linkedin.com/in/dong-heon-lee-7563061a5/" target="_blank" style="display: inline-block; margin: 5px;">
+       <img src="fig/Linkedin.png" alt="LinkedIn" width="30" height="30">
+   </a>
+   <a href="https://drive.google.com/file/d/1qCCSbyIyNOBe4z7dJp9DMqos0tDtVL0-/view" target="_blank" style="display: inline-block; margin: 5px;">
+       <img src="fig/CV.png" alt="CV" width="30" height="30">
+   </a>
+   <a href="https://github.com/donghoney0416" target="_blank" style="display: inline-block; margin: 5px;">
+       <img src="fig/Github.png" alt="GitHub" width="30" height="30">
+   </a>
 </div>
 
 <h3>Research Interests</h3>
