@@ -1,29 +1,64 @@
 ---
-layout: page
-title: About
+layout: post
+title: "Introduction"
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+<div style="display: flex; align-items: center;">
+    <img src="fig/avatar2.jpg" alt="Dongheon Lee's Photo" width="200" height="267" style="float: left; margin-right: 10px;">
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+   <div>
+       <h1>Dongheon Lee</h1>
 
-There are currently two themes built on Poole:
+       <p>Ph.D. student in Electrical Engineering at Korea Advanced Institute of Science and Technology (KAIST), in Smart Sound Systems under the supervision of Prof. Jung-Woo Choi. My research is focused on <strong>deep learning-based single/multi-channel speech enhancement and source separation</strong>. My interests also include microphone array signal processing, AR/VR, and automatic speech recognition (ASR).</p>
+   </div>
+</div>
 
-- [Hyde](https://hyde.getpoole.com)
-- [Lanyon](https://lanyon.getpoole.com)
+<h3>Contact</h3>
+<ul>
+   <li><strong>Email</strong>: <a href="mailto:donghen0115@kaist.ac.kr">donghen0115@kaist.ac.kr</a></li>
+</ul>
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+<h3>Links</h3>
+<div align="left">
+   <a href="https://scholar.google.com/citations?user=G4WfN5EAAAAJ&hl=ko&oi=ao" target="_blank" style="display: inline-block; margin: 5px;">
+       <img src="fig/Google.png" alt="Google Scholar" width="30" height="30">
+   </a>
+   <a href="https://www.linkedin.com/in/dong-heon-lee-7563061a5/" target="_blank" style="display: inline-block; margin: 5px;">
+       <img src="fig/Linkedin.png" alt="LinkedIn" width="30" height="30">
+   </a>
+   <a href="https://drive.google.com/file/d/1qCCSbyIyNOBe4z7dJp9DMqos0tDtVL0-/view" target="_blank" style="display: inline-block; margin: 5px;">
+       <img src="fig/CV.png" alt="CV" width="30" height="30">
+   </a>
+   <a href="https://github.com/donghoney0416" target="_blank" style="display: inline-block; margin: 5px;">
+       <img src="fig/GitHub.png" alt="GitHub" width="30" height="30">
+   </a>
+</div>
 
-## Setup
+<h3>Research Interests</h3>
+<ul>
+    <li>Deep learning for speech enhancement and source separation</li>
+    <li>Microphone array signal processing</li>
+    <li>Augmented and virtual reality (AR/VR)</li>
+    <li>Automatic speech recognition (ASR)</li>
+</ul>
 
-Some fun facts about the setup of this project include:
+<h3>Education</h3>
+<ul>
+   <li><strong>Ph.D.</strong> in Electrical Engineering, KAIST (2020.3 - Present)</li>
+   <li><strong>B.S.</strong> in Electrical Engineering, KAIST (2016.03 - 2020.02)</li>
+   <li>Changwon Science Highschool (2014.03 - 2016.02)</li>
+</ul>
 
-- Built for [Jekyll](https://jekyllrb.com)
-- Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-- Coded with [Atom](https://atom.io), an amazing open source code editor
+<h3>Work Experience</h3>
+<ul>
+    <li><strong>Research Intern</strong>, SK Hynix (2019.06 - 2019.08)</li>
+</ul>
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+<h3>Selected Publications</h3>
+<ul>
+    <li><strong>D. Lee</strong>, and JW. Choi, "DeFTAN-II: Efficient multichannel speech enhancement with subgroup processing," <em>IEEE/ACM Trans. Audio, Speech, Lang. Process.</em>, 2024.</li>
+    <li><strong>D. Lee</strong>, and JW. Choi, "DeFTAN-AA: Array geometry agnostic multichannel speech enhancement," <em>in Proc. Interspeech</em>, 2024.</li>
+    <li><strong>D. Lee</strong>, D. Choi, and JW. Choi, "Real-time multichannel speech enhancement using Dense Frequency-Time Attentive Network and non-overlapping synthesis window," <em>in Proc. Interspeech</em>, 2023.</li>
+    <li><strong>D. Lee</strong>, and JW. Choi, "DeFT-AN: Dense Frequency-Time Attentive Network for multichannel speech enhancement," <em>IEEE Signal Process. Lett.</em>, 2023.</li>
+    <li><strong>D. Lee</strong>, B. Jo, and JW. Choi, “Direction-of-arrival estimation with blind surface impedance compensation for spherical microphone array,” <em>JASA Express Lett.</em>, 2021.</li>    
+</ul>
