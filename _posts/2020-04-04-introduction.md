@@ -4,7 +4,7 @@ title: "Introduction"
 ---
 
 <div style="display: flex; align-items: center;">
-    <img src="fig/avatar2.jpg" alt="Dongheon Lee's Photo" width="200" height="200" style="float: left; margin-right: 20px;">
+    <img src="fig/avatar2.jpg" alt="Dongheon Lee's Photo" width="150" height="200" style="float: left; margin-right: 20px;">
 
    <div>
        <h1>Dongheon Lee</h1>
