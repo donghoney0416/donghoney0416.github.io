@@ -44,9 +44,9 @@ title: "Introduction"
 
 <h3>Education</h3>
 <ul>
-   <li><strong>Ph.D. in Electrical Engineering</strong>, KAIST (20200.3 - Present)</li>
-   <li><strong>B.S. in Electrical Engineering</strong>, KAIST (2016.03 - 2020.02)</li>
-   <li><strong>Changwon Science Highschool (2014.03 - 2016.02)</li>
+   <li><strong>Ph.D.</strong> in Electrical Engineering, KAIST (2020.3 - Present)</li>
+   <li><strong>B.S.</strong> in Electrical Engineering, KAIST (2016.03 - 2020.02)</li>
+   <li>Changwon Science Highschool (2014.03 - 2016.02)</li>
 </ul>
 
 <h3>Work Experience</h3>
@@ -56,9 +56,9 @@ title: "Introduction"
 
 <h3>Selected Publications</h3>
 <ul>
-    <li>D. Lee, and JW. Choi, "DeFTAN-II: Efficient multichannel speech enhancement with subgroup processing," <em>IEEE/ACM Trans. Audio, Speech, Lang. Process.</em>, 2024.</li>
-    <li>D. Lee, and JW. Choi, "DeFTAN-AA: Array geometry agnostic multichannel speech enhancement," <em>in Proc. Interspeech</em>, 2024.</li>
-    <li>D. Lee, D. Choi, and JW. Choi, "Real-time multichannel speech enhancement using Dense Frequency-Time Attentive Network and non-overlapping synthesis window," <em>in Proc. Interspeech</em>, 2023.</li>
-    <li>D. Lee, and JW. Choi, "DeFT-AN: Dense Frequency-Time Attentive Network for multichannel speech enhancement," <em>IEEE Signal Process. Lett.</em>, 2023.</li>
-    <li>D. Lee, B. Jo, and JW. Choi, “Direction-of-arrival estimation with blind surface impedance compensation for spherical microphone array,” <em>JASA Express Lett.</em>, 2021.</li>    
+    <li><strong>D. Lee</strong>, and JW. Choi, "DeFTAN-II: Efficient multichannel speech enhancement with subgroup processing," <em>IEEE/ACM Trans. Audio, Speech, Lang. Process.</em>, 2024.</li>
+    <li><strong>D. Lee</strong>, and JW. Choi, "DeFTAN-AA: Array geometry agnostic multichannel speech enhancement," <em>in Proc. Interspeech</em>, 2024.</li>
+    <li><strong>D. Lee</strong>, D. Choi, and JW. Choi, "Real-time multichannel speech enhancement using Dense Frequency-Time Attentive Network and non-overlapping synthesis window," <em>in Proc. Interspeech</em>, 2023.</li>
+    <li><strong>D. Lee</strong>, and JW. Choi, "DeFT-AN: Dense Frequency-Time Attentive Network for multichannel speech enhancement," <em>IEEE Signal Process. Lett.</em>, 2023.</li>
+    <li><strong>D. Lee</strong>, B. Jo, and JW. Choi, “Direction-of-arrival estimation with blind surface impedance compensation for spherical microphone array,” <em>JASA Express Lett.</em>, 2021.</li>    
 </ul>
