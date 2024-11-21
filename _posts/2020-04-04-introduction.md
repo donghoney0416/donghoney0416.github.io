@@ -26,7 +26,7 @@ title: "Introduction"
    <a href="https://www.linkedin.com/in/dong-heon-lee-7563061a5/" target="_blank" style="display: inline-block; margin: 5px;">
        <img src="fig/Linkedin.png" alt="LinkedIn" width="30" height="30">
    </a>
-   <a href="https://drive.google.com/file/d/1qCCSbyIyNOBe4z7dJp9DMqos0tDtVL0-/view" target="_blank" style="display: inline-block; margin: 5px;">
+   <a href="https://drive.google.com/file/d/1xrk4IS5joIC51AV_rV2xfacM1lHaSJSZ/view?usp=sharing" target="_blank" style="display: inline-block; margin: 5px;">
        <img src="fig/CV.png" alt="CV" width="30" height="30">
    </a>
    <a href="https://github.com/donghoney0416" target="_blank" style="display: inline-block; margin: 5px;">
