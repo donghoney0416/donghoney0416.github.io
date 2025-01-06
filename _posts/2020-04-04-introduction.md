@@ -56,6 +56,7 @@ title: "Introduction"
 
 <h3>Selected Publications</h3>
 <ul>
+    <li><strong>D. Lee</strong>, and JW. Choi, "DeFT-Mamba: Universal multichannel sound separation with polyphonic audio classification," <em>in Proc. ICASSP</em>, 2025. (accepted)</li>
     <li><strong>D. Lee</strong>, and JW. Choi, "DeFTAN-II: Efficient multichannel speech enhancement with subgroup processing," <em>IEEE/ACM Trans. Audio, Speech, Lang. Process.</em>, 2024.</li>
     <li><strong>D. Lee</strong>, and JW. Choi, "DeFTAN-AA: Array geometry agnostic multichannel speech enhancement," <em>in Proc. Interspeech</em>, 2024.</li>
     <li><strong>D. Lee</strong>, D. Choi, and JW. Choi, "Real-time multichannel speech enhancement using Dense Frequency-Time Attentive Network and non-overlapping synthesis window," <em>in Proc. Interspeech</em>, 2023.</li>
