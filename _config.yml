@@ -42,7 +42,7 @@ version: 3.0.0
 # Navbar page list
 nav:
   - title: About
-    url: /about
+    url: https://donghoney0416.github.io/
 
-  - title: Publications
+  - title: Projects
     url: https://donghoney0416.github.io/DeFTAN-Series/
