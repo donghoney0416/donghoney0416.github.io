@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 😃 About me ![Meta](images/meta_logo.png)
+# 😃 About me <img src="images/meta_logo.png" alt="Meta" width="60"/>
 Hello! I am Dongheon Lee, a research scientist intern at <strong>Meta Reality Labs</strong> and also a postdoctoral researcher at <strong>KAIST</strong>. My research mainly focuses on <strong>multichannel sound source separation (speech enhancement, separation, and audio source separation)</strong>, including real-time, on-device models and array-agnostic processing. I am interested in AR/VR, and speech recognition. I obtained Ph.D. (2025) and B.S. (2020) at KAIST, advised by Professor [Jung-Woo Choi](https://www.sound.kaist.ac.kr/).
 
 <u>Alert! I am finding my work from June 2026. If you want to work with me, please feel free to contact me!</u>
