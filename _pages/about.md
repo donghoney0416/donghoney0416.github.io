@@ -28,7 +28,7 @@ For more information, please refer to my [CV](https://drive.google.com/file/d/1m
 - Audio Signal Processing
 - Speech Signal Processing
 - Microphone Array Processing
-- Generative AI
+- Generative AI (Speech/Audio)
 
 # 🔥 News
 - *2025.07*: &nbsp;🎉 <strong>1st rank</strong> in DCASE 2025 task 4: Spatial Semantic Segmentation of Sound Scenes
@@ -51,17 +51,17 @@ For more information, please refer to my [CV](https://drive.google.com/file/d/1m
 &emsp;&emsp;&emsp;Early Graduation
 
 # 📎 Selected Publications 
-[**6**] <span style="color:royalblue">**Dongheon Lee** </span>, Jung-Woo Choi, "DeFT-Mamba: Multichannel universal sound separation and polyphonic audio classification," International Conference on Audio, Speech, Signal Processing (**ICASSP**) 2025 (oral)
+[**6**] <span style="color:royalblue">**Dongheon Lee**</span>, Jung-Woo Choi, "DeFT-Mamba: Multichannel universal sound separation and polyphonic audio classification," International Conference on Audio, Speech, Signal Processing (**ICASSP**) 2025 (oral)
 
-[**5**] <span style="color:royalblue">**Dongheon Lee** </span>, Jung-Woo Choi, "DeFTAN-II: Efficient multichannel speech enhancement with subgroup processing," IEEE/ACM Transactions on Audio, Speech, and Language Processing (**IEEE/ACM TASLP**) 2024
+[**5**] <span style="color:royalblue">**Dongheon Lee**</span>, Jung-Woo Choi, "DeFTAN-II: Efficient multichannel speech enhancement with subgroup processing," IEEE/ACM Transactions on Audio, Speech, and Language Processing (**IEEE/ACM TASLP**) 2024
 
-[**4**] <span style="color:royalblue">**Dongheon Lee** </span>, Jung-Woo Choi, "DeFTAN-AA: Array geometry-agnostic multichannel speech enhancement," International Speech Communication Association (**Interspeech**) 2024 (oral)
+[**4**] <span style="color:royalblue">**Dongheon Lee**</span>, Jung-Woo Choi, "DeFTAN-AA: Array geometry-agnostic multichannel speech enhancement," International Speech Communication Association (**Interspeech**) 2024 (oral)
 
-[**3**] <span style="color:royalblue">**Dongheon Lee** </span>, Dayun Choi, Jung-Woo Choi, "DeFT-AN RT: Real-time multichannel speech enhancement using Dense Frequency Time Attentive Network and non-overlapping synthesis window,," International Speech Communication Association (**Interspeech**) 2023
+[**3**] <span style="color:royalblue">**Dongheon Lee**</span>, Dayun Choi, Jung-Woo Choi, "DeFT-AN RT: Real-time multichannel speech enhancement using Dense Frequency Time Attentive Network and non-overlapping synthesis window,," International Speech Communication Association (**Interspeech**) 2023
 
-[**2**] <span style="color:royalblue">**Dongheon Lee** </span>, Jung-Woo Choi, "DeFT-AN: Dense Frequency-Time Attentive Network for multichannel speech enhancement," IEEE Signal Processing Letters (**IEEE SPL**) 2023
+[**2**] <span style="color:royalblue">**Dongheon Lee**</span>, Jung-Woo Choi, "DeFT-AN: Dense Frequency-Time Attentive Network for multichannel speech enhancement," IEEE Signal Processing Letters (**IEEE SPL**) 2023
 
-[**1**] <span style="color:royalblue">**Dongheon Lee** </span>, Byeongho Jo, Jung-Woo Choi, "Direction-of-arrival estimation with blind surface impedance compensation for spherical microphone array", Journal of Acoustical Society of America Express Letters (**JASA EL**) 2021
+[**1**] <span style="color:royalblue">**Dongheon Lee**</span>, Byeongho Jo, Jung-Woo Choi, "Direction-of-arrival estimation with blind surface impedance compensation for spherical microphone array", Journal of Acoustical Society of America Express Letters (**JASA EL**) 2021
 
 # 📝 Publications (14 publications, 13 first-author)
 
@@ -73,7 +73,7 @@ For more information, please refer to my [CV](https://drive.google.com/file/d/1m
 
 [**C09**] [**Self-guided target sound extraction and classification through universal sound separation model and multiple clues**](https://dcase.community/documents/challenge2025/technical_reports/DCASE2025_Kwon_68_t4.pdf)
 
-Younghoo Kwon*, <span style="color:royalblue">**Dongheon** </span>*, Dohwan Kim, and Jung-Woo Choi (*: Equal Contribution)
+Younghoo Kwon*, <span style="color:royalblue">**Dongheon Lee**</span>*, Dohwan Kim, and Jung-Woo Choi (*: Equal Contribution)
 
 DCASE Technical Report <span style="color:#8B0000">**1st rank, Winner**</span> (**DCASE**) 2025
 
@@ -85,7 +85,7 @@ DCASE Technical Report <span style="color:#8B0000">**1st rank, Winner**</span> (
 
 [**C08**] [**DeepASA: An object-oriented one-for-all network for auditory scene analysis**]
 
-<span style="color:royalblue">**Dongheon** </span>, Younghoo Kwon, and Jung-Woo Choi
+<span style="color:royalblue">**Dongheon Lee**</span>, Younghoo Kwon, and Jung-Woo Choi
 
 Advances in Neural Information Processing Systems (**NeurIPS**) 2025, (submitted)
 
@@ -97,7 +97,7 @@ Advances in Neural Information Processing Systems (**NeurIPS**) 2025, (submitted
 
 [**C07**] **Universal auditory scene analysis model for source separation, event localization, and detection**
 
-<span style="color:royalblue">**Dongheon Lee** </span>, Jung-Woo Choi
+<span style="color:royalblue">**Dongheon Lee**</span>, Jung-Woo Choi
 
 Forum Acusticum Euronoise (**EuroNoise**) 2025
 
@@ -109,7 +109,7 @@ Forum Acusticum Euronoise (**EuroNoise**) 2025
 
 [**C06**] [**DeFT-Mamba: Multichannel universal sound separation and polyphonic audio classification**]([https://arxiv.org/pdf/2409.12413](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10890324&casa_token=LRRbfPg3qQYAAAAA:sZ7Fj4-hS_uGuLnohen5m8nbDjhAFeo7uG8p074ojNe8jcfoURanlTcT3yVmOa-HYsTHhqeChzQ))
 
-<span style="color:royalblue">**Dongheon Lee** </span>, Jung-Woo Choi
+<span style="color:royalblue">**Dongheon Lee**</span>, Jung-Woo Choi
 
 International Conference on Audio, Speech, Signal Processing (**ICASSP**) 2025 (oral)
 
@@ -125,7 +125,7 @@ International Conference on Audio, Speech, Signal Processing (**ICASSP**) 2025 (
 
 [**J05, C05**] [**DeFTAN-II: Efficient multichannel speech enhancement with subgroup processing**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10738447)
 
-<span style="color:royalblue">**Dongheon Lee** </span>, Jung-Woo Choi
+<span style="color:royalblue">**Dongheon Lee**</span>, Jung-Woo Choi
 
 IEEE/ACM Transactions on Audio, Speech, and Language Processing (**IEEE/ACM TASLP**) 2024
 
@@ -140,7 +140,7 @@ IEEE/ACM Transactions on Audio, Speech, and Language Processing (**IEEE/ACM TASL
 
 [**C04**] [**DeFTAN-AA: Array geometry-agnostic multichannel speech enhancement**]([https://arxiv.org/abs/2409.13037v1](https://www.isca-archive.org/interspeech_2024/lee24g_interspeech.pdf))
 
-<span style="color:royalblue">**Dongheon Lee** </span>, Jung-Woo Choi
+<span style="color:royalblue">**Dongheon Lee**</span>, Jung-Woo Choi
 
 International Speech Communication Association (**Interspeech**) 2024 (oral)
 
@@ -156,7 +156,7 @@ International Speech Communication Association (**Interspeech**) 2024 (oral)
 
 [**C03**] [**DeFT-AN RT: Real-time multichannel speech enhancement using Dense Frequency Time Attentive Network and non-overlapping synthesis window**]([https://aclanthology.org/2023.findings-emnlp.797.pdf](https://www.isca-archive.org/interspeech_2023/lee23j_interspeech.pdf))
 
-<span style="color:royalblue">**Dongheon Lee** </span>, Dayun Choi, and Jung-Woo Choi
+<span style="color:royalblue">**Dongheon Lee**</span>, Dayun Choi, and Jung-Woo Choi
 
 International Speech Communication Association (**Interspeech**) 2023
 
@@ -169,7 +169,7 @@ International Speech Communication Association (**Interspeech**) 2023
 
 [**J04, C02**] [**DeFT-AN: Dense Frequency-Time Attentive Network for multichannel speech enhancement**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10042963&casa_token=ERaDPBaWXSQAAAAA:pU65_JHMliKhGhb3nBjPygHDgojc8GFN7hZyFZKw-d5I9ZQ0R7LxkvGpjuaH_pO3FmpKf0qqTOY)
 
-<span style="color:royalblue">**Dongheon Lee** </span>, and Jung-Woo Choi
+<span style="color:royalblue">**Dongheon Lee**</span>, and Jung-Woo Choi
 
 IEEE Signal Processing Letters (**IEEE SPL**) 2023
 
@@ -185,7 +185,7 @@ IEEE Signal Processing Letters (**IEEE SPL**) 2023
 
 [**C01**] [**Inter-channel Conv-TasNet for source-agnostic multichannel audio enhancement**](https://www.ioa.org.uk/system/files/proceedings/d_lee_jw_choi_inter-channel_conv-tasnet_for_source-agnostic_multichannel_audio_enhancement.pdf)
 
-<span style="color:royalblue">**Dongheon Lee** </span>, Jung-Woo Choi
+<span style="color:royalblue">**Dongheon Lee**</span>, Jung-Woo Choi
 
 51st International Congress Exposition on Noise Controal Engineering (**Inter-Noise**), 2022. (oral)
 
@@ -199,7 +199,7 @@ IEEE Signal Processing Letters (**IEEE SPL**) 2023
 
 [**J03**] [**Wafer-scale, highly uniform, and well-arrayed suspended nanostructures for enhancing the performance of electronic devices**](https://pubs.rsc.org/en/content/articlelanding/2022/nr/d1nr07375c/unauth) 
 
-Zhi-Jun Zhao, Junseong Ahn, <span style="color:royalblue">**Dongheon Lee** </span>, et. al.
+Zhi-Jun Zhao, Junseong Ahn, <span style="color:royalblue">**Dongheon Lee**</span>, et. al.
 
 Nanoscale, 2021
 
@@ -211,7 +211,7 @@ Nanoscale, 2021
 
 [**J02**] [**Inter-channel Conv-TasNet for multichannel speech enhancement**](https://arxiv.org/pdf/2111.04312) 
 
-<span style="color:royalblue">**Dongheon Lee** </span>, Seongrae Kim, and Jung-Woo Choi
+<span style="color:royalblue">**Dongheon Lee**</span>, Seongrae Kim, and Jung-Woo Choi
 
 ArXiv, 2021
 
@@ -225,7 +225,7 @@ ArXiv, 2021
 
 [**J01**] [**Direction-of-arrival estimation with blind surface impedance compensation for spherical microphone array**](https://pubs.aip.org/asa/jel/article/1/7/074801/219823)
 
-<span style="color:royalblue">**Dongheon Lee** </span>, Byeongho Jo, Jung-Woo Choi
+<span style="color:royalblue">**Dongheon Lee**</span>, Byeongho Jo, Jung-Woo Choi
 
 Journal of Acoustical Society of America Express Letters (**JASA EL**) 2021
 
