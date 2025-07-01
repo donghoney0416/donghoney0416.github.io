@@ -65,8 +65,6 @@ For more information, please refer to my [CV](https://drive.google.com/file/d/1m
 
 # 📝 Publications (14 publications, 13 first-author)
 
-[*] equal contribution
-
 ## 2025
 <div class='paper-box'><div class='paper-box-image'><div class="badge">DCASE 2025</div><img src='images/dcase2025.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
