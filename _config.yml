@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Sunjae Yoon"
-description              : "sunjae.yoon@kaist.ac.kr"
+title                    : "Dongheon Lee"
+description              : "donghen0115@kaist.ac.kr"
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Sunjae Yoon"
-  avatar           : "images/S Yoon.png"
+  name             : "Dongheon Lee"
+  avatar           : "images/DLee.png"
   bio              : "Ph.D at KAIST"
   location         : "Daejeon, Korea"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=2A2lRoUAAAAJ"
-  email            : "sunjae.yoon@kaist.ac.kr"
+  googlescholar    : "https://scholar.google.com/citations?user=G4WfN5EAAAAJ&hl=ko&oi=ao"
+  email            : "donghen0115@kaist.ac.kr"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : https://github.com/donghoney0416
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : https://www.linkedin.com/in/dong-heon-lee-7563061a5/?originalSubdomain=kr
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
