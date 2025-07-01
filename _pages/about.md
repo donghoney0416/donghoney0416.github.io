@@ -68,7 +68,7 @@ For more information, please refer to my [CV](https://drive.google.com/file/d/1m
 [*] equal contribution
 
 ## 2025
-<div class='paper-box'><div class='paper-box-image'><div class="badge">ICCV 2025</div><img src='images/iccv2025.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">DCASE 2025</div><img src='images/dcase2025.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [**C09**] [**Self-guided target sound extraction and classification through universal sound separation model and multiple clues**](https://dcase.community/documents/challenge2025/technical_reports/DCASE2025_Kwon_68_t4.pdf)
@@ -80,7 +80,7 @@ DCASE Technical Report <span style="color:#8B0000">**1st rank, Winner**</span> (
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div class="badge">ICCV 2025</div><img src='images/iccv2025.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">NeurIPS 2025</div><img src='images/neurips2025.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [**C08**] [**DeepASA: An object-oriented one-for-all network for auditory scene analysis**]
@@ -92,7 +92,7 @@ Advances in Neural Information Processing Systems (**NeurIPS**) 2025, (submitted
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div class="badge">ICML 2025</div><img src='images/icml2025.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">EuroNoise 2025</div><img src='images/euronoise2025.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [**C07**] **Universal auditory scene analysis model for source separation, event localization, and detection**
@@ -104,7 +104,7 @@ Forum Acusticum Euronoise (**EuroNoise**) 2025
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div class="badge">CVPR 2025</div><img src='images/cvpr2025.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">ICASSP 2025</div><img src='images/icassp2025.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [**C06**] [**DeFT-Mamba: Multichannel universal sound separation and polyphonic audio classification**]([https://arxiv.org/pdf/2409.12413](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10890324&casa_token=LRRbfPg3qQYAAAAA:sZ7Fj4-hS_uGuLnohen5m8nbDjhAFeo7uG8p074ojNe8jcfoURanlTcT3yVmOa-HYsTHhqeChzQ))
@@ -120,7 +120,7 @@ International Conference on Audio, Speech, Signal Processing (**ICASSP**) 2025 (
 
 ## 2024
 
-<div class='paper-box'><div class='paper-box-image'><div class="badge">Neurips 2024</div><img src='images/neurips2024.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">IEEE/ACM TASLP 2024</div><img src='images/taslp2024.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [**J05, C05**] [**DeFTAN-II: Efficient multichannel speech enhancement with subgroup processing**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10738447)
@@ -135,7 +135,7 @@ IEEE/ACM Transactions on Audio, Speech, and Language Processing (**IEEE/ACM TASL
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div class="badge">ECCV 2024</div><img src='images/eccv2024_1.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">Interspeech 2024</div><img src='images/interspeech2024.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [**C04**] [**DeFTAN-AA: Array geometry-agnostic multichannel speech enhancement**]([https://arxiv.org/abs/2409.13037v1](https://www.isca-archive.org/interspeech_2024/lee24g_interspeech.pdf))
@@ -151,7 +151,7 @@ International Speech Communication Association (**Interspeech**) 2024 (oral)
 
 ## 2023
 
-<div class='paper-box'><div class='paper-box-image'><div class="badge">EMNLP 2023</div><img src='images/hear.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">Interspeech 2023</div><img src='images/interspeech2023.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [**C03**] [**DeFT-AN RT: Real-time multichannel speech enhancement using Dense Frequency Time Attentive Network and non-overlapping synthesis window**]([https://aclanthology.org/2023.findings-emnlp.797.pdf](https://www.isca-archive.org/interspeech_2023/lee23j_interspeech.pdf))
@@ -164,7 +164,7 @@ International Speech Communication Association (**Interspeech**) 2023
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div class="badge">ICCV 2023</div><img src='images/iccv2023.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">IEEE SPL 2023</div><img src='images/spl2023.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [**J04, C02**] [**DeFT-AN: Dense Frequency-Time Attentive Network for multichannel speech enhancement**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10042963&casa_token=ERaDPBaWXSQAAAAA:pU65_JHMliKhGhb3nBjPygHDgojc8GFN7hZyFZKw-d5I9ZQ0R7LxkvGpjuaH_pO3FmpKf0qqTOY)
@@ -180,7 +180,7 @@ IEEE Signal Processing Letters (**IEEE SPL**) 2023
 
 ## 2022
 
-<div class='paper-box'><div class='paper-box-image'><div class="badge">EMNLP 2022</div><img src='images/emnlp2022.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">Inter-Noise 2022</div><img src='images/internoise2022.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [**C01**] [**Inter-channel Conv-TasNet for source-agnostic multichannel audio enhancement**](https://www.ioa.org.uk/system/files/proceedings/d_lee_jw_choi_inter-channel_conv-tasnet_for_source-agnostic_multichannel_audio_enhancement.pdf)
@@ -194,7 +194,7 @@ IEEE Signal Processing Letters (**IEEE SPL**) 2023
 
 ## 2021
 
-<div class='paper-box'><div class='paper-box-image'><div class="badge">AAAI 2021</div><img src='images/aaai2021.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">Nanoscale 2021</div><img src='images/nanoscale2021.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [**J03**] [**Wafer-scale, highly uniform, and well-arrayed suspended nanostructures for enhancing the performance of electronic devices**](https://pubs.rsc.org/en/content/articlelanding/2022/nr/d1nr07375c/unauth) 
@@ -206,7 +206,7 @@ Nanoscale, 2021
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div class="badge">ICIP 2021</div><img src='images/icip2021.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">ArXiv 2021</div><img src='images/arxiv2021.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [**J02**] [**Inter-channel Conv-TasNet for multichannel speech enhancement**](https://arxiv.org/pdf/2111.04312) 
@@ -220,7 +220,7 @@ ArXiv, 2021
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div class="badge">ECCV 2020</div><img src='images/eccv2020.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">JASA EL 2021</div><img src='images/jasa2021.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [**J01**] [**Direction-of-arrival estimation with blind surface impedance compensation for spherical microphone array**](https://pubs.aip.org/asa/jel/article/1/7/074801/219823)
