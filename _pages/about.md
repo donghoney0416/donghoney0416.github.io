@@ -71,7 +71,7 @@ For more information, please refer to my [CV](https://drive.google.com/file/d/1m
 
 [**C09**] [**Self-guided target sound extraction and classification through universal sound separation model and multiple clues**](https://dcase.community/documents/challenge2025/technical_reports/DCASE2025_Kwon_68_t4.pdf)
 
-Younghoo Kwon *, <span style="color:royalblue">**Dongheon Lee**</span> *, Dohwan Kim, and Jung-Woo Choi (*: Equal Contribution)
+Younghoo Kwon\*, <span style="color:royalblue">**Dongheon Lee**</span>\*, Dohwan Kim, and Jung-Woo Choi (\*: Equal Contribution)
 
 DCASE Technical Report <span style="color:#8B0000">**1st rank, Winner**</span> (**DCASE**) 2025
 
