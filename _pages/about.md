@@ -81,7 +81,7 @@ DCASE Technical Report <span style="color:#8B0000">**1st rank, Winner**</span> (
 <div class='paper-box'><div class='paper-box-image'><div class="badge">NeurIPS 2025</div><img src='images/neurips2025.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[**C08**] [**DeepASA: An object-oriented one-for-all network for auditory scene analysis**]
+[**C08**] **DeepASA: An object-oriented one-for-all network for auditory scene analysis**
 
 <span style="color:royalblue">**Dongheon Lee**</span>, Younghoo Kwon, and Jung-Woo Choi
 
@@ -105,7 +105,7 @@ Forum Acusticum Euronoise (**EuroNoise**) 2025
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ICASSP 2025</div><img src='images/icassp2025.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[**C06**] [**DeFT-Mamba: Multichannel universal sound separation and polyphonic audio classification**]([https://arxiv.org/pdf/2409.12413](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10890324&casa_token=LRRbfPg3qQYAAAAA:sZ7Fj4-hS_uGuLnohen5m8nbDjhAFeo7uG8p074ojNe8jcfoURanlTcT3yVmOa-HYsTHhqeChzQ))
+[**C06**] [**DeFT-Mamba: Multichannel universal sound separation and polyphonic audio classification**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10890324&casa_token=LRRbfPg3qQYAAAAA:sZ7Fj4-hS_uGuLnohen5m8nbDjhAFeo7uG8p074ojNe8jcfoURanlTcT3yVmOa-HYsTHhqeChzQ)
 
 <span style="color:royalblue">**Dongheon Lee**</span>, Jung-Woo Choi
 
@@ -127,7 +127,7 @@ International Conference on Audio, Speech, Signal Processing (**ICASSP**) 2025 (
 
 IEEE/ACM Transactions on Audio, Speech, and Language Processing (**IEEE/ACM TASLP**) 2024
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square)](https://github.com/donghoney0416/DeFTAN-II/tree/mainC) 
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square)](https://github.com/donghoney0416/DeFTAN-II/tree/main) 
 [![Demo Page](https://img.shields.io/badge/Demo-Page-blue?logo=google-chrome&style=flat-square)](https://donghoney0416.github.io/demos-DeFTAN-II/demo-page.html)
 
 </div>
@@ -136,13 +136,13 @@ IEEE/ACM Transactions on Audio, Speech, and Language Processing (**IEEE/ACM TASL
 <div class='paper-box'><div class='paper-box-image'><div class="badge">Interspeech 2024</div><img src='images/interspeech2024.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[**C04**] [**DeFTAN-AA: Array geometry-agnostic multichannel speech enhancement**]([https://arxiv.org/abs/2409.13037v1](https://www.isca-archive.org/interspeech_2024/lee24g_interspeech.pdf))
+[**C04**] [**DeFTAN-AA: Array geometry-agnostic multichannel speech enhancement**](https://www.isca-archive.org/interspeech_2024/lee24g_interspeech.pdf)
 
 <span style="color:royalblue">**Dongheon Lee**</span>, Jung-Woo Choi
 
 International Speech Communication Association (**Interspeech**) 2024 (oral)
 
-[![Demo Page](https://img.shields.io/badge/Demo-Page-blue?logo=google-chrome&style=flat-square)]([https://donghoney0416.github.io/demos-DeFTAN-II/demo-page.html](https://donghoney0416.github.io/DeFTAN-AA/))
+[![Demo Page](https://img.shields.io/badge/Demo-Page-blue?logo=google-chrome&style=flat-square)](https://donghoney0416.github.io/DeFTAN-AA/)
 
 </div>
 </div>
@@ -152,7 +152,7 @@ International Speech Communication Association (**Interspeech**) 2024 (oral)
 <div class='paper-box'><div class='paper-box-image'><div class="badge">Interspeech 2023</div><img src='images/interspeech2023.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[**C03**] [**DeFT-AN RT: Real-time multichannel speech enhancement using Dense Frequency Time Attentive Network and non-overlapping synthesis window**]([https://aclanthology.org/2023.findings-emnlp.797.pdf](https://www.isca-archive.org/interspeech_2023/lee23j_interspeech.pdf))
+[**C03**] [**DeFT-AN RT: Real-time multichannel speech enhancement using Dense Frequency Time Attentive Network and non-overlapping synthesis window**](https://www.isca-archive.org/interspeech_2023/lee23j_interspeech.pdf)
 
 <span style="color:royalblue">**Dongheon Lee**</span>, Dayun Choi, and Jung-Woo Choi
 
