@@ -77,12 +77,6 @@ DCASE Technical Report <span style="color:#8B0000">**1st rank, Winner**</span> (
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div class="badge">NeurIPS 2025</div><img src='images/neurips2025.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div class="badge">EuroNoise 2025</div><img src='images/euronoise2025.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
