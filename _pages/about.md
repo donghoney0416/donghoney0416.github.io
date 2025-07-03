@@ -22,7 +22,6 @@ Hello! I am Dongheon Lee, a research scientist intern at <strong>Meta Reality La
 
 <u>Alert! I am looking for work starting in June 2026. If you would like to work with me, please feel free to contact me!</u>
 
-For more information, please refer to my [CV](https://drive.google.com/file/d/1mfpebp1ZnteknwVx2V6Q3CFhz9y9fDVD/view?usp=sharing).
 
 # 📌 Research Interests
 - Audio Signal Processing
@@ -80,12 +79,6 @@ DCASE Technical Report <span style="color:#8B0000">**1st rank, Winner**</span> (
 
 <div class='paper-box'><div class='paper-box-image'><div class="badge">NeurIPS 2025</div><img src='images/neurips2025.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
-
-[**C08**] **DeepASA: An object-oriented one-for-all network for auditory scene analysis**
-
-<span style="color:royalblue">**Dongheon Lee**</span>, Younghoo Kwon, and Jung-Woo Choi
-
-Advances in Neural Information Processing Systems (**NeurIPS**) 2025, (submitted)
 
 </div>
 </div>
