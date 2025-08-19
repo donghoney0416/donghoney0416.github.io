@@ -62,13 +62,13 @@ Hello! I am Dongheon Lee, a research scientist intern at <strong>Meta Reality La
 
 [**1**] <span style="color:royalblue">**Dongheon Lee**</span>, Byeongho Jo, Jung-Woo Choi, "Direction-of-arrival estimation with blind surface impedance compensation for spherical microphone array", Journal of Acoustical Society of America Express Letters (**JASA EL**) 2021
 
-# 📝 Publications (14 publications, 13 first-author)
+# 📝 Publications (13 publications, 12 first-author)
 
 ## 2025
 <div class='paper-box'><div class='paper-box-image'><div class="badge">DCASE 2025</div><img src='images/dcase2025.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[**C09**] [**Self-guided target sound extraction and classification through universal sound separation model and multiple clues**](https://dcase.community/documents/challenge2025/technical_reports/DCASE2025_Kwon_68_t4.pdf)
+[**C08**] [**Self-guided target sound extraction and classification through universal sound separation model and multiple clues**](https://dcase.community/documents/challenge2025/technical_reports/DCASE2025_Kwon_68_t4.pdf)
 
 Younghoo Kwon\*, <span style="color:royalblue">**Dongheon Lee**</span>\*, Dohwan Kim, and Jung-Woo Choi (\*: Equal Contribution)
 
