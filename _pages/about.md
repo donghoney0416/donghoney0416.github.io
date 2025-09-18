@@ -51,7 +51,7 @@ For more information, please refer to my [CV]([https://drive.google.com/file/d/1
 &emsp;&emsp;&emsp;Early Graduation
 
 # 📎 Selected Publications 
-[**6**] <span style="color:royalblue">**Dongheon Lee**</span>, Younghoo Kwon, Jung-Woo Choi, "DeepASA: An object-oriented one-for-all network for auditory scene analysis," \textit{in Proc. Adv. Neural Inf. Process. Syst. (**NeurIPS**) 2025
+[**7**] <span style="color:royalblue">**Dongheon Lee**</span>, Younghoo Kwon, Jung-Woo Choi, "DeepASA: An object-oriented one-for-all network for auditory scene analysis," \textit{in Proc. Adv. Neural Inf. Process. Syst. (**NeurIPS**) 2025
 
 [**6**] <span style="color:royalblue">**Dongheon Lee**</span>, Jung-Woo Choi, "DeFT-Mamba: Multichannel universal sound separation and polyphonic audio classification," International Conference on Audio, Speech, Signal Processing (**ICASSP**) 2025 (oral)
 
@@ -68,10 +68,10 @@ For more information, please refer to my [CV]([https://drive.google.com/file/d/1
 # 📝 Publications (13 publications, 12 first-author)
 
 ## 2025
-<div class='paper-box'><div class='paper-box-image'><div class="badge">NeurIPS 2025/div><img src='images/dcase2025.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">NeurIPS 2025/div><img src='images/NeurIPS2025.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[**C98**] [**Self-guided target sound extraction and classification through universal sound separation model and multiple clues**]
+[**C09**] [**Self-guided target sound extraction and classification through universal sound separation model and multiple clues**]
 
 <span style="color:royalblue">**Dongheon Lee**</span>, Younghoo Kwon, and Jung-Woo Choi
 
