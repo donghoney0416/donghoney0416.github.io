@@ -22,7 +22,7 @@ Hello! I am Dongheon Lee, a research scientist intern at <strong>Meta Reality La
 
 <u>Alert! I am looking for work starting in June 2026. If you would like to work with me, please feel free to contact me!</u>
 
-For more information, please refer to my [CV]([https://drive.google.com/file/d/1umt2X6c9S4npC0-nfSn6KEVJkDJ15u12/view?usp=sharing](https://drive.google.com/file/d/1jvlwsHGhg4-2sqW7IsRV0QjE6hQiVG4q/view?usp=sharing))
+For more information, please refer to my [CV](https://drive.google.com/file/d/1jvlwsHGhg4-2sqW7IsRV0QjE6hQiVG4q/view?usp=sharing)
 
 # 📌 Research Interests
 - Audio Signal Processing
