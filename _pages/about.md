@@ -68,7 +68,7 @@ For more information, please refer to my [CV](https://drive.google.com/file/d/1j
 # 📝 Publications (13 publications, 12 first-author)
 
 ## 2025
-<div class='paper-box'><div class='paper-box-image'><div class="badge">NeurIPS 2025/div><img src='images/NeurIPS2025.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">NeurIPS 2025</div><img src='images/NeurIPS2025.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [**C09**] [**DeepASA:An object-oriented one-for-all network for auditory scene analysis**]
@@ -79,7 +79,6 @@ The 39th Annual Conference on Neural Information Processing Systems (**NeurIPS**
 
 </div>
 </div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div class="badge">DCASE 2025</div><img src='images/dcase2025.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
