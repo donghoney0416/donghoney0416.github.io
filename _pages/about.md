@@ -120,7 +120,6 @@ International Conference on Audio, Speech, Signal Processing (**ICASSP**) 2025 (
 </div>
 
 ## 2024
-
 <div class='paper-box'><div class='paper-box-image'><div class="badge">IEEE/ACM TASLP 2024</div><img src='images/taslp2024.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
@@ -151,7 +150,6 @@ International Speech Communication Association (**Interspeech**) 2024 (oral)
 </div>
 
 ## 2023
-
 <div class='paper-box'><div class='paper-box-image'><div class="badge">Interspeech 2023</div><img src='images/interspeech2023.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
@@ -180,7 +178,6 @@ IEEE Signal Processing Letters (**IEEE SPL**) 2023
 </div>
 
 ## 2022
-
 <div class='paper-box'><div class='paper-box-image'><div class="badge">Inter-Noise 2022</div><img src='images/internoise2022.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
@@ -194,7 +191,6 @@ IEEE Signal Processing Letters (**IEEE SPL**) 2023
 </div>
 
 ## 2021
-
 <div class='paper-box'><div class='paper-box-image'><div class="badge">Nanoscale 2021</div><img src='images/nanoscale2021.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
