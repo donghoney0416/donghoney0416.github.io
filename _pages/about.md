@@ -22,6 +22,7 @@ Hello! I am Dongheon Lee, a research scientist intern at <strong>Meta Reality La
 
 <u>Alert! I am looking for work starting in June 2026. If you would like to work with me, please feel free to contact me!</u>
 
+For more information, please refer to my [CV]([https://drive.google.com/file/d/1umt2X6c9S4npC0-nfSn6KEVJkDJ15u12/view?usp=sharing](https://drive.google.com/file/d/1jvlwsHGhg4-2sqW7IsRV0QjE6hQiVG4q/view?usp=sharing))
 
 # 📌 Research Interests
 - Audio Signal Processing
@@ -30,9 +31,9 @@ Hello! I am Dongheon Lee, a research scientist intern at <strong>Meta Reality La
 - Generative AI (Speech/Audio)
 
 # 🔥 News
+- *2025.03*: &nbsp;🎉 One paper accepted to <strong>NeurIPS</strong>, 2025
 - *2025.07*: &nbsp;🎉 <strong>1st rank</strong> in DCASE 2025 task 4: Spatial Semantic Segmentation of Sound Scenes
 - *2025.06*: &nbsp;🎉 Join in <strong>Meta Reality Labs</strong> as research scientist intern
-- *2025.03*: &nbsp;🎉 One paper accepted to Forum Acusticum <strong>Euronoise</strong>, 2025
 - *2025.02*: &nbsp;🎉 End journey for <strong>Ph.D.</strong>, School of Electrical Engineering, KAIST
 
 # 🏫 Education
@@ -50,6 +51,8 @@ Hello! I am Dongheon Lee, a research scientist intern at <strong>Meta Reality La
 &emsp;&emsp;&emsp;Early Graduation
 
 # 📎 Selected Publications 
+[**6**] <span style="color:royalblue">**Dongheon Lee**</span>, Younghoo Kwon, Jung-Woo Choi, "DeepASA: An object-oriented one-for-all network for auditory scene analysis," \textit{in Proc. Adv. Neural Inf. Process. Syst. (**NeurIPS**) 2025
+
 [**6**] <span style="color:royalblue">**Dongheon Lee**</span>, Jung-Woo Choi, "DeFT-Mamba: Multichannel universal sound separation and polyphonic audio classification," International Conference on Audio, Speech, Signal Processing (**ICASSP**) 2025 (oral)
 
 [**5**] <span style="color:royalblue">**Dongheon Lee**</span>, Jung-Woo Choi, "DeFTAN-II: Efficient multichannel speech enhancement with subgroup processing," IEEE/ACM Transactions on Audio, Speech, and Language Processing (**IEEE/ACM TASLP**) 2024
@@ -65,6 +68,19 @@ Hello! I am Dongheon Lee, a research scientist intern at <strong>Meta Reality La
 # 📝 Publications (13 publications, 12 first-author)
 
 ## 2025
+<div class='paper-box'><div class='paper-box-image'><div class="badge">NeurIPS 2025/div><img src='images/dcase2025.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[**C98**] [**Self-guided target sound extraction and classification through universal sound separation model and multiple clues**]
+
+<span style="color:royalblue">**Dongheon Lee**</span>, Younghoo Kwon, and Jung-Woo Choi
+
+The 39th Annual Conference on Neural Information Processing Systems (**NeurIPS**) 2025
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div class="badge">DCASE 2025</div><img src='images/dcase2025.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
