@@ -31,7 +31,7 @@ For more information, please refer to my [CV](https://drive.google.com/file/d/1j
 - Generative AI (Speech/Audio)
 
 # 🔥 News
-- *2025.03*: &nbsp;🎉 One paper accepted to <strong>NeurIPS</strong>, 2025
+- *2025.09*: &nbsp;🎉 One paper accepted to <strong>NeurIPS</strong>, 2025
 - *2025.07*: &nbsp;🎉 <strong>1st rank</strong> in DCASE 2025 task 4: Spatial Semantic Segmentation of Sound Scenes
 - *2025.06*: &nbsp;🎉 Join in <strong>Meta Reality Labs</strong> as research scientist intern
 - *2025.02*: &nbsp;🎉 End journey for <strong>Ph.D.</strong>, School of Electrical Engineering, KAIST
