@@ -51,7 +51,7 @@ For more information, please refer to my [CV](https://drive.google.com/file/d/1j
 &emsp;&emsp;&emsp;Early Graduation
 
 # 📎 Selected Publications 
-[**7**] <span style="color:royalblue">**Dongheon Lee**</span>, Younghoo Kwon, Jung-Woo Choi, "DeepASA: An object-oriented one-for-all network for auditory scene analysis," \textit{in Proc. Adv. Neural Inf. Process. Syst. (**NeurIPS**) 2025
+[**7**] <span style="color:royalblue">**Dongheon Lee**</span>, Younghoo Kwon, Jung-Woo Choi, "DeepASA: An object-oriented one-for-all network for auditory scene analysis," The 39th Annual Conference on Neural Information Processing Systems (**NeurIPS**) 2025
 
 [**6**] <span style="color:royalblue">**Dongheon Lee**</span>, Jung-Woo Choi, "DeFT-Mamba: Multichannel universal sound separation and polyphonic audio classification," International Conference on Audio, Speech, Signal Processing (**ICASSP**) 2025 (oral)
 
