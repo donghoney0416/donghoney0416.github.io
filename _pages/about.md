@@ -71,7 +71,7 @@ For more information, please refer to my [CV](https://drive.google.com/file/d/1j
 <div class='paper-box'><div class='paper-box-image'><div class="badge">NeurIPS 2025</div><img src='images/NeurIPS2025.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[**C09**] [**DeepASA:An object-oriented one-for-all network for auditory scene analysis**]
+[**C09**] [**DeepASA:An object-oriented one-for-all network for auditory scene analysis**](https://www.arxiv.org/pdf/2509.17247)
 
 <span style="color:royalblue">**Dongheon Lee**</span>, Younghoo Kwon, and Jung-Woo Choi
 
