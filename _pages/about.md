@@ -18,9 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 😃 About me
-Hello! I am Dongheon Lee, a research scientist intern at <strong>Meta Reality Labs</strong> <img src="images/meta_logo.png" alt="Meta" width="20"/> and also a postdoctoral researcher at <strong>KAIST</strong> <img src="images/kaist_logo.png" alt="kaist" width="40"/>. My research mainly focuses on <strong>multichannel sound source separation (speech enhancement, separation, and audio source separation)</strong>, including real-time, on-device models and array-agnostic processing. I am interested in AR/VR, and speech recognition. I obtained Ph.D. (2025) and B.S. (2020) at KAIST, advised by Professor [Jung-Woo Choi](https://www.sound.kaist.ac.kr/).
+I am Dongheon Lee, a ML Engineer at SqueezeBits, formerly a research scientist intern at <strong>Meta Reality Labs</strong> <img src="images/meta_logo.png" alt="Meta" width="20"/> and a postdoctoral researcher at <strong>KAIST</strong> <img src="images/kaist_logo.png" alt="kaist" width="40"/>. My research mainly focuses on <strong>speech enhancement, separation, and audio generation</strong>, including real-time, on-device models. I am interested in AR/VR, and speech recognition. I obtained Ph.D. (2025) and B.S. (2020) at KAIST, advised by Professor [Jung-Woo Choi](https://www.sound.kaist.ac.kr/).
 
-For more information, please refer to my [CV](https://drive.google.com/file/d/1jvlwsHGhg4-2sqW7IsRV0QjE6hQiVG4q/view?usp=sharing)
+For more information, please refer to my [CV](https://drive.google.com/file/d/1NqpKciDQsNf2JFtBFe9UCKaFvWBekw7V/view?usp=sharing)
 
 # 📌 Research Interests
 - Audio Signal Processing
