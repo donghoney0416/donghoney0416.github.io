@@ -36,26 +36,15 @@ For more information, please refer to my [CV](https://drive.google.com/file/d/1N
 
 # 🏢 Work Experience
 
-- Jan.2026 - now: __SqueezeBits__
-
-&emsp;&emsp;&emsp;ML Engineer
-
-- Jun.2025 - Dec.2025: __Meta Reality Labs__
-&emsp;&emsp;&emsp;Research Scientist Intern, hosted by [Juan Azcarreta](https://scholar.google.com/citations?user=-US9hjkAAAAJ&hl=en) and [Buye Xu](https://scholar.google.com/citations?user=EmGf8k0AAAAJ&hl=en), Multichannel speech enhancement ([Interspeech 2026](https://arxiv.org/pdf/2605.04749))
-
-- Jun.2019 - Aug.2019: __SK Hynix__
-&emsp;&emsp;&emsp;Research Intern, DRAN design (1st prize in internship project)
+- Jan.2026 - now: __SqueezeBits__<br>&emsp;&emsp;&emsp;ML Engineer
+- Jun.2025 - Dec.2025: __Meta Reality Labs__<br>&emsp;&emsp;&emsp;Research Scientist Intern, hosted by [Juan Azcarreta](https://scholar.google.com/citations?user=-US9hjkAAAAJ&hl=en) and [Buye Xu](https://scholar.google.com/citations?user=EmGf8k0AAAAJ&hl=en), Multichannel speech enhancement ([Interspeech 2026](https://arxiv.org/pdf/2605.04749))
+- Jun.2019 - Aug.2019: __SK Hynix__<br>&emsp;&emsp;&emsp;Research Intern, DRAN design (1st prize in internship project)
 
 # 🏫 Education
 
-- Mar.2020 - Feb.2025: __Ph.D.__ Electrical Engineering (KAIST)
-&emsp;&emsp;&emsp;Dissertation: "Unified Auditory Scene Analysis and Separation using Dense Frequency-Time Attentive Network"
-&emsp;&emsp;&emsp;Advisor: Prof. [Jung-Woo Choi](https://www.sound.kaist.ac.kr/)
-
+- Mar.2020 - Feb.2025: __Ph.D.__ Electrical Engineering (KAIST)<br>&emsp;&emsp;&emsp;Dissertation: "Unified Auditory Scene Analysis and Separation using Dense Frequency-Time Attentive Network"<br>&emsp;&emsp;&emsp;Advisor: Prof. [Jung-Woo Choi](https://www.sound.kaist.ac.kr/)
 - Mar.2016 - Feb.2020: __B.S.__ Electrical Engineering (KAIST)
-
-- Mar.2014 - Feb.2016: Changwon Science Highschool
-&emsp;&emsp;&emsp;Early Graduation
+- Mar.2014 - Feb.2016: Changwon Science Highschool<br>&emsp;&emsp;&emsp;Early Graduation
 
 # 📎 Selected Publications 
 [**8**] <span style="color:royalblue">**Dongheon Lee**</span>, Ashutosh Pandey, Sanjeel Parekh, Daniel Wong, Jacob Donley, Buye Xu, Juan Azcarreta, "Spatial-Magnifier: Spatial upsampling for multichannel speech enhancement," Annual Conference of International Speech Communication Association (**Interspeech**) 2026
