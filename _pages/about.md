@@ -34,6 +34,21 @@ For more information, please refer to my [CV](https://drive.google.com/file/d/1N
 - *2025.07*: &nbsp;🎉 <strong>1st rank</strong> in DCASE 2025 task 4: Spatial Semantic Segmentation of Sound Scenes
 - *2025.06*: &nbsp;🎉 Join in <strong>Meta Reality Labs</strong> as research scientist intern
 
+# 🏢 Work Experience
+
+- Jan.2026 - now: __SqueezeBits__
+
+&emsp;&emsp;&emsp;ML Engineer
+
+- Jun.2025 - Dec.2025: __Meta Reality Labs__
+
+&emsp;&emsp;&emsp;Research Scientist Intern, hosted by [Juan Azcarreta])(https://scholar.google.com/citations?user=-US9hjkAAAAJ&hl=en) and [Buye Xu](https://scholar.google.com/citations?user=EmGf8k0AAAAJ&hl=en)
+&emsp;&emsp;&emsp;**Dongheon Lee**, Ashutosh Pandey, Sanjeel Parekh, Daniel Wong, Jacob Donley, Buye Xu, Juan Azcarreta, "Spatial-Magnifier: Spatial upsampling for multichannel speech enhancement," Annual Conference of International Speech Communication Association (**Interspeech**) 2026
+
+- Jun.2019 - Aug.2019: __SK Hynix__
+
+&emsp;&emsp;&emsp;Research Intern, DRAN design (1st prize in internship project)
+
 # 🏫 Education
 
 - Mar.2020 - Feb.2025: __Ph.D.__ Electrical Engineering (KAIST)
