@@ -37,6 +37,7 @@ For more information, please refer to my [CV](https://drive.google.com/file/d/1N
 # 🏢 Work Experience
 
 - Jan.2026 - now: __SqueezeBits__
+
 &emsp;&emsp;&emsp;ML Engineer
 
 - Jun.2025 - Dec.2025: __Meta Reality Labs__
