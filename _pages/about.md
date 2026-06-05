@@ -29,10 +29,10 @@ For more information, please refer to my [CV](https://drive.google.com/file/d/1N
 - Generative AI (Speech/Audio)
 
 # 🔥 News
+- *2026.06*: &nbsp;🎉 One paper accepted to <strong>Interspeech</strong>, 2026
 - *2025.09*: &nbsp;🎉 One paper accepted to <strong>NeurIPS</strong>, 2025
 - *2025.07*: &nbsp;🎉 <strong>1st rank</strong> in DCASE 2025 task 4: Spatial Semantic Segmentation of Sound Scenes
 - *2025.06*: &nbsp;🎉 Join in <strong>Meta Reality Labs</strong> as research scientist intern
-- *2025.02*: &nbsp;🎉 End journey for <strong>Ph.D.</strong>, School of Electrical Engineering, KAIST
 
 # 🏫 Education
 
@@ -49,21 +49,36 @@ For more information, please refer to my [CV](https://drive.google.com/file/d/1N
 &emsp;&emsp;&emsp;Early Graduation
 
 # 📎 Selected Publications 
+[**8**] <span style="color:royalblue">**Dongheon Lee**</span>, Ashutosh Pandey, Sanjeel Parekh, Daniel Wong, Jacob Donley, Buye Xu, Juan Azcarreta, "Spatial-Magnifier: Spatial upsampling for multichannel speech enhancement," Annual Conference of International Speech Communication Association (**Interspeech**) 2026
+
 [**7**] <span style="color:royalblue">**Dongheon Lee**</span>, Younghoo Kwon, Jung-Woo Choi, "DeepASA: An object-oriented one-for-all network for auditory scene analysis," The 39th Annual Conference on Neural Information Processing Systems (**NeurIPS**) 2025
 
 [**6**] <span style="color:royalblue">**Dongheon Lee**</span>, Jung-Woo Choi, "DeFT-Mamba: Multichannel universal sound separation and polyphonic audio classification," International Conference on Audio, Speech, Signal Processing (**ICASSP**) 2025 (oral)
 
 [**5**] <span style="color:royalblue">**Dongheon Lee**</span>, Jung-Woo Choi, "DeFTAN-II: Efficient multichannel speech enhancement with subgroup processing," IEEE/ACM Transactions on Audio, Speech, and Language Processing (**IEEE/ACM TASLP**) 2024
 
-[**4**] <span style="color:royalblue">**Dongheon Lee**</span>, Jung-Woo Choi, "DeFTAN-AA: Array geometry-agnostic multichannel speech enhancement," International Speech Communication Association (**Interspeech**) 2024 (oral)
+[**4**] <span style="color:royalblue">**Dongheon Lee**</span>, Jung-Woo Choi, "DeFTAN-AA: Array geometry-agnostic multichannel speech enhancement," Annual Conference of International Speech Communication Association (**Interspeech**) 2024 (oral)
 
-[**3**] <span style="color:royalblue">**Dongheon Lee**</span>, Dayun Choi, Jung-Woo Choi, "DeFT-AN RT: Real-time multichannel speech enhancement using Dense Frequency Time Attentive Network and non-overlapping synthesis window,," International Speech Communication Association (**Interspeech**) 2023
+[**3**] <span style="color:royalblue">**Dongheon Lee**</span>, Dayun Choi, Jung-Woo Choi, "DeFT-AN RT: Real-time multichannel speech enhancement using Dense Frequency Time Attentive Network and non-overlapping synthesis window," Annual Conference of International Speech Communication Association (**Interspeech**) 2023
 
 [**2**] <span style="color:royalblue">**Dongheon Lee**</span>, Jung-Woo Choi, "DeFT-AN: Dense Frequency-Time Attentive Network for multichannel speech enhancement," IEEE Signal Processing Letters (**IEEE SPL**) 2023
 
 [**1**] <span style="color:royalblue">**Dongheon Lee**</span>, Byeongho Jo, Jung-Woo Choi, "Direction-of-arrival estimation with blind surface impedance compensation for spherical microphone array", Journal of Acoustical Society of America Express Letters (**JASA EL**) 2021
 
 # 📝 Publications (13 publications, 12 first-author)
+
+## 2026
+<div class='paper-box'><div class='paper-box-image'><div class="badge">Interspeech 2026</div><img src='images/Interspeech2026.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[**C10**] [**Spatial-Magnifier: Spatial upsampling for multichannel speech enhancement**](https://www.arxiv.org/pdf/2509.17247)
+
+<span style="color:royalblue">**Dongheon Lee**</span>, Ashutosh Pandey, Sanjeel Parekh, Daniel Wong, Jacob Donley, Buye Xu, Juan Azcarreta
+
+Annual Conference of International Speech Communication Association (**Interspeech**) 2026
+
+</div>
+</div>
 
 ## 2025
 <div class='paper-box'><div class='paper-box-image'><div class="badge">NeurIPS 2025</div><img src='images/NeurIPS2025.png' alt="sym" width="100%"></div>
@@ -139,7 +154,7 @@ IEEE/ACM Transactions on Audio, Speech, and Language Processing (**IEEE/ACM TASL
 
 <span style="color:royalblue">**Dongheon Lee**</span>, Jung-Woo Choi
 
-International Speech Communication Association (**Interspeech**) 2024 (oral)
+Annual Conference of International Speech Communication Association (**Interspeech**) 2024 (oral)
 
 [![Demo Page](https://img.shields.io/badge/Demo-Page-blue?logo=google-chrome&style=flat-square)](https://donghoney0416.github.io/DeFTAN-AA/)
 
@@ -154,7 +169,7 @@ International Speech Communication Association (**Interspeech**) 2024 (oral)
 
 <span style="color:royalblue">**Dongheon Lee**</span>, Dayun Choi, and Jung-Woo Choi
 
-International Speech Communication Association (**Interspeech**) 2023
+Annual Conference of International Speech Communication Association (**Interspeech**) 2023
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square)](https://github.com/donghoney0416/DeFT-AN-RT)
 </div>
