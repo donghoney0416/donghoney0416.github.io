@@ -43,6 +43,7 @@ For more information, please refer to my [CV](https://drive.google.com/file/d/1N
 - Jun.2025 - Dec.2025: __Meta Reality Labs__
 
 &emsp;&emsp;&emsp;Research Scientist Intern, hosted by [Juan Azcarreta](https://scholar.google.com/citations?user=-US9hjkAAAAJ&hl=en) and [Buye Xu](https://scholar.google.com/citations?user=EmGf8k0AAAAJ&hl=en)
+
 &emsp;&emsp;&emsp;**Dongheon Lee**, Ashutosh Pandey, Sanjeel Parekh, Daniel Wong, Jacob Donley, Buye Xu, Juan Azcarreta, "Spatial-Magnifier: Spatial upsampling for multichannel speech enhancement," Annual Conference of International Speech Communication Association (**Interspeech**) 2026
 
 - Jun.2019 - Aug.2019: __SK Hynix__
