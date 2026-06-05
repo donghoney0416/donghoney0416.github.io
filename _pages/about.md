@@ -71,7 +71,7 @@ For more information, please refer to my [CV](https://drive.google.com/file/d/1N
 <div class='paper-box'><div class='paper-box-image'><div class="badge">Interspeech 2026</div><img src='images/Interspeech2026.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[**C10**] [**Spatial-Magnifier: Spatial upsampling for multichannel speech enhancement**](https://www.arxiv.org/pdf/2509.17247)
+[**C10**] [**Spatial-Magnifier: Spatial upsampling for multichannel speech enhancement**](https://arxiv.org/pdf/2605.04749)
 
 <span style="color:royalblue">**Dongheon Lee**</span>, Ashutosh Pandey, Sanjeel Parekh, Daniel Wong, Jacob Donley, Buye Xu, Juan Azcarreta
 
