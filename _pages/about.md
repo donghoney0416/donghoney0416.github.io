@@ -20,7 +20,7 @@ redirect_from:
 # 😃 About me
 I am Dongheon Lee, a ML Engineer at SqueezeBits, formerly a research scientist intern at <strong>Meta Reality Labs</strong> <img src="images/meta_logo.png" alt="Meta" width="20"/> and a postdoctoral researcher at <strong>KAIST</strong> <img src="images/kaist_logo.png" alt="kaist" width="40"/>. My research mainly focuses on <strong>speech enhancement, separation, and audio generation</strong>, including real-time, on-device models. I am interested in AR/VR, and speech recognition. I obtained Ph.D. (2025) and B.S. (2020) at KAIST, advised by Professor [Jung-Woo Choi](https://www.sound.kaist.ac.kr/).
 
-For more information, please refer to my [CV](https://drive.google.com/file/d/1NqpKciDQsNf2JFtBFe9UCKaFvWBekw7V/view?usp=sharing)
+For more information, please refer to my [CV](https://drive.google.com/file/d/1B0LBaSnWeyDeiLNAHQc9kZekRBIcDNG7/view?usp=sharing)
 
 # 📌 Research Interests
 - Audio Signal Processing
@@ -37,7 +37,7 @@ For more information, please refer to my [CV](https://drive.google.com/file/d/1N
 # 🏢 Work Experience
 
 - Jan.2026 - now: __SqueezeBits__<br>&emsp;&emsp;&emsp;ML Engineer
-- Jun.2025 - Dec.2025: __Meta Reality Labs__<br>&emsp;&emsp;&emsp;Research Scientist Intern, hosted by [Juan Azcarreta](https://scholar.google.com/citations?user=-US9hjkAAAAJ&hl=en) and [Buye Xu](https://scholar.google.com/citations?user=EmGf8k0AAAAJ&hl=en), Multichannel speech enhancement ([Interspeech 2026](https://arxiv.org/pdf/2605.04749))
+- Jun.2025 - Dec.2025: __Meta Reality Labs__<br>&emsp;&emsp;&emsp;Research Scientist Intern, hosted by [Juan Azcarreta](https://scholar.google.com/citations?user=-US9hjkAAAAJ&hl=en) and [Buye Xu](https://scholar.google.com/citations?user=EmGf8k0AAAAJ&hl=en), Generative model-based speech enhancement ([Interspeech 2026](https://arxiv.org/pdf/2605.04749))
 - Jun.2019 - Aug.2019: __SK Hynix__<br>&emsp;&emsp;&emsp;Research Intern, DRAN design (1st prize in internship project)
 
 # 🏫 Education
